@@ -1,9 +1,9 @@
 <h1 align="center">Hey , I'm Tanisha Sharma</h1>
-<h3 align="center">Passionate about autonomous vehicles.</h3>
-<h3 align="right" width=400 alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnews.crunchbase.com%2Fai-robotics%2Fwhy-self-driving-car-companies-need-to-focus-on-safety-to-succeed%2F&psig=AOvVaw00uO4q4rL06GkyHEtStIXz&ust=1686733894214000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjgs8zzv_8CFQAAAAAdAAAAABAN"
-<h3 align="left">Connect with me:</h3>
+<h2 align="center">Passionate about autonomous vehicles.</h2>
+<img align="right" width=400 alt="coding" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fnews.crunchbase.com%2Fai-robotics%2Fwhy-self-driving-car-companies-need-to-focus-on-safety-to-succeed%2F&psig=AOvVaw00uO4q4rL06GkyHEtStIXz&ust=1686733894214000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjgs8zzv_8CFQAAAAAdAAAAABAN](https://news.crunchbase.com/wp-content/uploads/2018/07/self-driving-cars.gif)">
+<h3 align="left"> Connect with me: </h3>
 <p align="left">
-<a href="https://linkedin.com/in/tanisha-sharma-836a31238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanisha-sharma-836a31238" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tanisha-sharma-836a31238" target="blank"> https://linkedin.com/in/tanisha-sharma-836a31238 </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
