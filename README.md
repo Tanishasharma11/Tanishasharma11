@@ -19,7 +19,7 @@ I learn by building. Below is an interactive catalog mapping my core coding modu
 
 ### 🛠️ Core Utilities & Algorithmic Modules
 
-<p align="center">
+<p align="left">
   <img src="./assets/kpdh.svg" width="100%"
      alt="Purple and golden magical divider">
 </p>
@@ -41,7 +41,7 @@ I learn by building. Below is an interactive catalog mapping my core coding modu
 
 ### 📸 Programmatic Image & Video Modification
 
-<p align="center">
+<p align="left">
   <img src="./assets/kpdh.svg" width="100%"
      alt="Purple and golden magical divider">
 </p>
@@ -57,7 +57,7 @@ I learn by building. Below is an interactive catalog mapping my core coding modu
 
 ### 🌐 Web Development & Application UIs
 
-<p align="center">
+<p align="left">
   <img src="./assets/kpdh.svg" width="100%"
      alt="Purple and golden magical divider">
 </p>
@@ -79,7 +79,7 @@ I learn by building. Below is an interactive catalog mapping my core coding modu
 
 ### 🕷️ Automation, Web Scraping & Aggregation
 
-<p align="center">
+<p align="left">
   <img src="./assets/kpdh.svg" width="100%"
      alt="Purple and golden magical divider">
 </p>
@@ -97,7 +97,7 @@ I learn by building. Below is an interactive catalog mapping my core coding modu
 
 ### 👁️ Deep Learning & Advanced Computer Vision
 
-<p align="center">
+<p align="left">
   <img src="./assets/kpdh.svg" width="100%"
      alt="Purple and golden magical divider">
 </p>
@@ -118,7 +118,7 @@ I learn by building. Below is an interactive catalog mapping my core coding modu
 
 ### 📊 Natural Language Processing & Sentiment Analysis
 
-<p align="center">
+<p align="left">
   <img src="./assets/kpdh.svg" width="100%"
      alt="Purple and golden magical divider">
 </p>
@@ -136,7 +136,7 @@ I learn by building. Below is an interactive catalog mapping my core coding modu
 
 ### 🤖 Embedded Systems & IoT (Internet of Things)
 
-<p align="center">
+<p align="left">
   <img src="./assets/kpdh.svg" width="100%"
      alt="Purple and golden magical divider">
 </p>
@@ -153,7 +153,7 @@ I learn by building. Below is an interactive catalog mapping my core coding modu
 
 ### 📊 Data Science & Predictive Analytics
 
-<p align="center">
+<p align="left">
   <img src="./assets/kpdh.svg" width="100%"
      alt="Purple and golden magical divider">
 </p>
