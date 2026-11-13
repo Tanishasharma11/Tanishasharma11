@@ -1,5 +1,5 @@
 <img align="center" width=1100 alt="coding" src="https://news.crunchbase.com/wp-content/uploads/2018/07/self-driving-cars.gif">
-<h1 align="center">Hey, I'm Tanisha Sharma Jr. Developer at ABI</h1>
+<h1 align="center">Hey, I'm Tanisha Sharma</h1>
 <h2 align="center">Passionate about autonomous vehicles.</h2>
 
 <h3 align="left"> Connect with me: </h3>
