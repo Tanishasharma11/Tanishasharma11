@@ -1,11 +1,11 @@
 
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="1000" height="60"
+     width="1000" height="30"
      viewBox="0 0 1000 60">
 
   <!-- Solid purple bar -->
   <rect x="0" y="28"
-        width="1000" height="4"
+        width="1000" height="2"
         fill="#A855F7"/>
 
   <!-- Golden central sparkle -->
