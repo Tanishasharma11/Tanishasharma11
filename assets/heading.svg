@@ -1,0 +1,128 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="115"
+     viewBox="0 0 1200 115">
+
+  <!-- LEFT: Mechanical gear -->
+  <g transform="translate(48 37)">
+    <path d="
+      M 0,-27 L 7,-27 L 10,-19
+      L 17,-16 L 25,-20 L 31,-14
+      L 27,-6 L 30,0 L 38,3
+      L 38,11 L 30,14 L 27,21
+      L 31,29 L 25,35 L 17,31
+      L 10,34 L 7,42 L -1,42
+      L -4,34 L -11,31 L -19,35
+      L -25,29 L -21,21 L -24,14
+      L -32,11 L -32,3 L -24,0
+      L -21,-7 L -25,-14 L -19,-20
+      L -11,-16 L -4,-19 Z"
+      fill="#A855F7"
+      transform="scale(0.85)"/>
+
+    <circle r="11" fill="#171329"/>
+    <circle r="6" fill="#C084FC"/>
+    <circle r="2.5" fill="#FFD76A"/>
+  </g>
+
+  <!-- HEADING TEXT -->
+  <text x="100" y="48"
+        font-family="Arial, sans-serif"
+        font-size="34"
+        font-weight="600"
+        fill="#29243A">
+    Engineering &amp; Automation Workspace
+  </text>
+
+  <!-- GOLDEN SPARKLE -->
+  <path d="M810 12 L814 23 L825 27
+           L814 31 L810 42 L806 31
+           L795 27 L806 23 Z"
+        fill="#FFD76A"/>
+
+  <!-- CAR MOTION TRAILS -->
+  <path d="M900 58 H1010"
+        stroke="#A855F7"
+        stroke-width="3"
+        fill="none"/>
+
+  <path d="M920 68 H1000"
+        stroke="#00DDF5"
+        stroke-width="2"
+        fill="none"/>
+
+  <path d="M940 48 H1005"
+        stroke="#F72585"
+        stroke-width="2"
+        fill="none"/>
+
+  <!-- FUTURISTIC SPORTS CAR BODY -->
+  <path d="
+    M 1000,59
+    L 1014,43
+    L 1040,35
+    L 1070,36
+    L 1092,47
+    L 1115,49
+    L 1133,58
+    L 1145,59
+    L 1148,70
+    L 1140,75
+    L 1002,75
+    L 991,69 Z"
+    fill="#171329"
+    stroke="#C084FC"
+    stroke-width="2"/>
+
+  <!-- CAR WINDOW -->
+  <path d="M1030 44 L1044 38
+           L1068 39 L1085 49
+           L1030 49 Z"
+        fill="#00DDF5"/>
+
+  <!-- CAR PINK BODY ACCENT -->
+  <path d="M1000 59 L1018 53
+           L1128 54 L1145 62
+           L1080 62 L1010 64 Z"
+        fill="#F72585"/>
+
+  <!-- CYAN FRONT LIGHT -->
+  <path d="M1136 60 L1146 63 L1144 67
+           L1135 66 Z"
+        fill="#00DDF5"/>
+
+  <!-- WHEELS -->
+  <circle cx="1024" cy="74" r="12"
+          fill="#090914" stroke="#A855F7"
+          stroke-width="3"/>
+  <circle cx="1024" cy="74" r="5"
+          fill="#00DDF5"/>
+
+  <circle cx="1115" cy="74" r="12"
+          fill="#090914" stroke="#F72585"
+          stroke-width="3"/>
+  <circle cx="1115" cy="74" r="5"
+          fill="#00DDF5"/>
+
+  <!-- SMALL GOLDEN SPARKLES -->
+  <path d="M965 30 L968 37 L975 40
+           L968 43 L965 50 L962 43
+           L955 40 L962 37 Z"
+        fill="#FFE9A6"/>
+
+  <path d="M1170 34 L1173 41 L1180 44
+           L1173 47 L1170 54 L1167 47
+           L1160 44 L1167 41 Z"
+        fill="#FFD76A"/>
+
+  <!-- PURPLE UNDERLINE -->
+  <rect x="10" y="96"
+        width="1180" height="2"
+        fill="#A855F7"/>
+
+  <!-- CENTRAL GOLDEN DETAIL -->
+  <path d="M600 91 L603 96 L600 101
+           L597 96 Z"
+        fill="#FFD76A"/>
+
+</svg>
