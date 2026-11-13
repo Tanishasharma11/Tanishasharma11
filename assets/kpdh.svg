@@ -1,28 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="1000" height="32"
-     viewBox="0 0 1000 32">
 
-  <!-- Purple line -->
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1400" height="32"
+     viewBox="0 0 1400 32">
+
+  <!-- Full-width purple line -->
   <rect x="0" y="15"
-        width="1000" height="2"
+        width="1400" height="2"
         fill="#A855F7"/>
 
   <!-- Central golden sparkle -->
-  <path d="M500 4 L504 12 L512 16
-           L504 20 L500 28 L496 20
-           L488 16 L496 12 Z"
+  <path d="M700 4 L706 12 L712 16
+           L706 20 L700 28 L694 20
+           L688 16 L694 12 Z"
         fill="#FFD76A"/>
 
   <!-- Left sparkle -->
-  <path d="M465 10 L467 14 L471 16
-           L467 18 L465 22 L463 18
-           L459 16 L463 14 Z"
+  <path d="M651 10 L653 14 L657 16
+           L653 18 L651 22 L649 18
+           L645 16 L649 14 Z"
         fill="#FFE9A6"/>
 
   <!-- Right sparkle -->
-  <path d="M535 10 L537 14 L541 16
-           L537 18 L535 22 L533 18
-           L529 16 L533 14 Z"
+  <path d="M749 10 L751 14 L755 16
+           L751 18 L749 22 L747 18
+           L743 16 L747 14 Z"
         fill="#FFE9A6"/>
 
 </svg>
