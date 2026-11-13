@@ -2,7 +2,7 @@
 <h1 align="center">Hey, I'm Tanisha Sharma</h1>
 <h2 align="center">Passionate about autonomous vehicles.</h2>
 
-<h3 align="left">🌐 Connect with me: </h3>
+<h3 align="left">🌐︎ Connect with me: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/tanisha-sharma-836a31238" target="blank"> https://linkedin.com/in/tanisha-sharma-836a31238 </a>
 </p>
