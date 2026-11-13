@@ -14,16 +14,16 @@
            L688 16 L694 12 Z"
         fill="#FFD76A"/>
 
-  <!-- Left sparkle -->
-  <path d="M651 10 L653 14 L657 16
-           L653 18 L651 22 L649 18
-           L645 16 L649 14 Z"
-        fill="#FFE9A6"/>
+<!-- Left sparkle -->
+<path d="M675 10 L677 14 L681 16
+         L677 18 L675 22 L673 18
+         L669 16 L673 14 Z"
+      fill="#FFE9A6"/>
 
-  <!-- Right sparkle -->
-  <path d="M749 10 L751 14 L755 16
-           L751 18 L749 22 L747 18
-           L743 16 L747 14 Z"
-        fill="#FFE9A6"/>
+<!-- Right sparkle -->
+<path d="M725 10 L727 14 L731 16
+         L727 18 L725 22 L723 18
+         L719 16 L723 14 Z"
+      fill="#FFE9A6"/>
 
 </svg>
