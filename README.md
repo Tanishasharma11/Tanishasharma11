@@ -16,7 +16,11 @@
 
 ## 📂 Engineering & Automation Workspace
 I learn by building. Below is an interactive catalog mapping my core coding modules, computer vision tools, and analytical mini-projects:
-
+<p align="center">
+  <img src="./assets/kpdh.svg"
+       width="100%"
+       alt="Purple and golden magical divider">
+</p>
 ### 🛠️ Core Utilities & Algorithmic Modules
 
 | Project Link | Core Focus | Technologies Used |
