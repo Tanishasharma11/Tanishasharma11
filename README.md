@@ -2,12 +2,12 @@
 <h1 align="center">Hey, I'm Tanisha Sharma</h1>
 <h2 align="center">Passionate about autonomous vehicles.</h2>
 
-<h3 align="left">🌐︎ Connect with me: </h3>
+<h3 align="left">🔗 Connect with me: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/tanisha-sharma-836a31238" target="blank"> https://linkedin.com/in/tanisha-sharma-836a31238 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🖥️ Languages and Tools:</h3>
 <p align="left"> <a href="https://python.org" target="_blank" rel="noreferrer"> <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAyFTgFyD3GKLXYsOINwTVTLJiKjBv81sBtl8ZvaIelvbCgU77OC7WKHQgj616eObVWow&usqp=CAU" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="http://mma.prnewswire.com/media/467598/Oracle_Logo.jpg?w=200" alt="oracle" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> <img src="https://download.blender.org/branding/blender_logo_socket.png" alt="blender" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer">  </a> </p>
 
 <br>
