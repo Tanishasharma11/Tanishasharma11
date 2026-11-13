@@ -19,6 +19,12 @@ I learn by building. Below is an interactive catalog mapping my core coding modu
 
 ### 🛠️ Core Utilities & Algorithmic Modules
 
+<p align="center">
+  <img src="./assets/kpdh.svg"
+       width="100%"
+       alt="Purple divider with golden magical sparkles">
+</p>
+
 | Project Link | Core Focus | Technologies Used |
 | :--- | :--- | :--- |
 | 🛠️ [Mini-Project-01-Subset-Selection-Problem](https://github.com/Tanishasharma11/Mini-Project-01-Subset-Selection-Problem) | Algorithmic logic and validation handling constraint subsets | `Jupyter Notebook` |
