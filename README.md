@@ -20,9 +20,8 @@ I learn by building. Below is an interactive catalog mapping my core coding modu
 ### 🛠️ Core Utilities & Algorithmic Modules
 
 <p align="center">
-  <img src="./assets/kpdh.svg"
-       width="100%"
-       alt="Purple divider with golden magical sparkles">
+  <img src="./assets/kpdh.svg" width="100%"
+     alt="Purple and golden magical divider">
 </p>
 
 | Project Link | Core Focus | Technologies Used |
