@@ -41,6 +41,11 @@ I learn by building. Below is an interactive catalog mapping my core coding modu
 
 ### 📸 Programmatic Image & Video Modification
 
+<p align="center">
+  <img src="./assets/kpdh.svg" width="100%"
+     alt="Purple and golden magical divider">
+</p>
+
 | Project Link | Core Focus | Technologies Used |
 | :--- | :--- | :--- |
 | 🛠️ [Mini-Project-13-Video-to-Audio-Conversion](https://github.com/Tanishasharma11/Mini-Project-13-Video-to-Audio-Conversion) | Splitting multiplexed visual tracks to pull single audio components | `Jupyter Notebook` |
@@ -51,6 +56,11 @@ I learn by building. Below is an interactive catalog mapping my core coding modu
 
 
 ### 🌐 Web Development & Application UIs
+
+<p align="center">
+  <img src="./assets/kpdh.svg" width="100%"
+     alt="Purple and golden magical divider">
+</p>
 
 | Project Link | Core Focus | Technologies Used |
 | :--- | :--- | :--- |
@@ -69,6 +79,11 @@ I learn by building. Below is an interactive catalog mapping my core coding modu
 
 ### 🕷️ Automation, Web Scraping & Aggregation
 
+<p align="center">
+  <img src="./assets/kpdh.svg" width="100%"
+     alt="Purple and golden magical divider">
+</p>
+
 | Project Link | Core Focus | Technologies Used |
 | :--- | :--- | :--- |
 | 🛠️ [Mini-Project-06-Web-crawler-Email-Scraper](https://github.com/Tanishasharma11/Mini-Project-06-Web-crawler-Email-Scraper) | Automated web tree navigators gathering contact indicators | `Jupyter Notebook` |
@@ -81,6 +96,11 @@ I learn by building. Below is an interactive catalog mapping my core coding modu
 
 
 ### 👁️ Deep Learning & Advanced Computer Vision
+
+<p align="center">
+  <img src="./assets/kpdh.svg" width="100%"
+     alt="Purple and golden magical divider">
+</p>
 
 | Project Link | Core Focus | Technologies Used |
 | :--- | :--- | :--- |
@@ -98,6 +118,11 @@ I learn by building. Below is an interactive catalog mapping my core coding modu
 
 ### 📊 Natural Language Processing & Sentiment Analysis
 
+<p align="center">
+  <img src="./assets/kpdh.svg" width="100%"
+     alt="Purple and golden magical divider">
+</p>
+
 | Project Link | Core Focus | Technologies Used |
 | :--- | :--- | :--- |
 | 🛠️ [Mini-Project-49-Toxic-Comment-Classification-using-RNN-and-LSTM](https://github.com/Tanishasharma11/Mini-Project-49-Toxic-Comment-Classification-using-RNN-and-LSTM) | Moderation content filtering layers checking text streams | `Jupyter Notebook` |
@@ -111,6 +136,11 @@ I learn by building. Below is an interactive catalog mapping my core coding modu
 
 ### 🤖 Embedded Systems & IoT (Internet of Things)
 
+<p align="center">
+  <img src="./assets/kpdh.svg" width="100%"
+     alt="Purple and golden magical divider">
+</p>
+
 | Project Link | Core Focus | Technologies Used |
 | :--- | :--- | :--- |
 | 🛠️ [Mini-Project-57-Blinking-a-LED](https://github.com/Tanishasharma11/Mini-Project-57-Blinking-a-LED) | Basic hardware clock configuration and digital output controls | `C++` `Arduino` |
@@ -122,6 +152,11 @@ I learn by building. Below is an interactive catalog mapping my core coding modu
 | 🛠️ [Mini-Project-63-Smart-Irrigation-System](https://github.com/Tanishasharma11/Mini-Project-63-Smart-Irrigation-System) | Soil sensor value telemetry driving automated fluid valve logic | `C++` `Arduino` |
 
 ### 📊 Data Science & Predictive Analytics
+
+<p align="center">
+  <img src="./assets/kpdh.svg" width="100%"
+     alt="Purple and golden magical divider">
+</p>
 
 | Project Link | Core Focus | Technologies Used |
 | :--- | :--- | :--- |
