@@ -18,7 +18,7 @@
 I learn by building. Below is an interactive catalog mapping my core coding modules, computer vision tools, and analytical mini-projects:
 
 ### 🛠️ Core Utilities & Algorithmic Modules
-
+ 
 <p align="center">
   <img src="./assets/kpdh.svg" width="100%"
      alt="Purple and golden magical divider">
