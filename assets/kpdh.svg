@@ -3,29 +3,15 @@
      width="1000" height="60"
      viewBox="0 0 1000 60">
 
-  <defs>
-    <linearGradient id="purpleline"
-                    x1="0%" y1="0%"
-                    x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#8B5CF6"/>
-      <stop offset="50%" stop-color="#C084FC"/>
-      <stop offset="100%" stop-color="#8B5CF6"/>
-    </linearGradient>
-  </defs>
-
-  <!-- Visible purple divider -->
   <path d="M0 30 H1000"
-        stroke="url(#purpleline)"
-        stroke-width="4"
-        stroke-linecap="round"/>
+        stroke="#A855F7"
+        stroke-width="4"/>
 
-  <!-- Golden central sparkle -->
-  <path d="M500 8 L506 23 L522 30
-           L506 37 L500 52 L494 37
-           L478 30 L494 23 Z"
+  <path d="M500 7 L507 23 L523 30
+           L507 37 L500 53 L493 37
+           L477 30 L493 23 Z"
         fill="#FFD76A"/>
 
-  <!-- Smaller magical sparkles -->
   <path d="M465 20 L468 27 L475 30
            L468 33 L465 40 L462 33
            L455 30 L462 27 Z"
