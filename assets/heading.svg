@@ -3,27 +3,40 @@
      width="1200" height="115"
      viewBox="0 0 1200 115">
 
-  <!-- LEFT: Mechanical gear -->
-  <g transform="translate(48 37)">
-    <path d="
-      M 0,-27 L 7,-27 L 10,-19
-      L 17,-16 L 25,-20 L 31,-14
-      L 27,-6 L 30,0 L 38,3
-      L 38,11 L 30,14 L 27,21
-      L 31,29 L 25,35 L 17,31
-      L 10,34 L 7,42 L -1,42
-      L -4,34 L -11,31 L -19,35
-      L -25,29 L -21,21 L -24,14
-      L -32,11 L -32,3 L -24,0
-      L -21,-7 L -25,-14 L -19,-20
-      L -11,-16 L -4,-19 Z"
-      fill="#A855F7"
-      transform="scale(0.85)"/>
 
-    <circle r="11" fill="#171329"/>
-    <circle r="6" fill="#C084FC"/>
-    <circle r="2.5" fill="#FFD76A"/>
-  </g>
+<!-- LEFT: Mechanical gear -->
+<g transform="translate(48 37)">
+
+  <!-- Eight-tooth mechanical gear -->
+  <path
+    d="M-7 -39 H7 L10 -28
+       L19 -24 L29 -30
+       L39 -20 L33 -10
+       L37 -2 L48 0
+       L48 14 L37 16
+       L33 25 L39 35
+       L29 45 L19 39
+       L10 43 L7 54
+       H-7 L-10 43
+       L-19 39 L-29 45
+       L-39 35 L-33 25
+       L-37 16 L-48 14
+       V0 L-37 -2
+       L-33 -10 L-39 -20
+       L-29 -30 L-19 -24
+       L-10 -28 Z"
+    transform="scale(0.72)"
+    fill="#A855F7"
+    stroke="#7C3AED"
+    stroke-width="2"/>
+
+  <!-- Centred mechanical hub -->
+  <circle cx="0" cy="0" r="13"
+          fill="#808080"/>
+
+
+</g>
+
 
   <!-- HEADING TEXT -->
   <text x="100" y="48"
