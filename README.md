@@ -14,8 +14,14 @@
 
 ---
 
-## 📂 Engineering & Automation Workspace
-I learn by building. Below is an interactive catalog mapping my core coding modules, computer vision tools, and analytical mini-projects:
+
+<p align="center">
+  <img src="./assets/heading.svg"
+       width="100%"
+       alt="Engineering and Automation Workspace with futuristic car and mechanical gear">
+</p>
+
+    I learn by building. Below is catalog of my projects:
 
 ### 🛠️ Core Utilities & Algorithmic Modules
  
