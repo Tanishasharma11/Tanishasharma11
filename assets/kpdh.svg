@@ -1,33 +1,39 @@
 
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="1000" height="48"
-     viewBox="0 0 1000 48">
+     width="1000" height="60"
+     viewBox="0 0 1000 60">
+
   <defs>
-    <linearGradient id="purple"
-                    x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#8B5CF6"
-            stop-opacity="0"/>
-      <stop offset="50%" stop-color="#A855F7"/>
-      <stop offset="100%" stop-color="#8B5CF6"
-            stop-opacity="0"/>
+    <linearGradient id="purpleline"
+                    x1="0%" y1="0%"
+                    x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="50%" stop-color="#C084FC"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
     </linearGradient>
   </defs>
 
-  <path d="M0 24 H1000"
-        stroke="url(#purple)" stroke-width="2"/>
+  <!-- Visible purple divider -->
+  <path d="M0 30 H1000"
+        stroke="url(#purpleline)"
+        stroke-width="4"
+        stroke-linecap="round"/>
 
-  <path d="M500 5 L504 18 L517 24
-           L504 30 L500 43 L496 30
-           L483 24 L496 18 Z"
+  <!-- Golden central sparkle -->
+  <path d="M500 8 L506 23 L522 30
+           L506 37 L500 52 L494 37
+           L478 30 L494 23 Z"
         fill="#FFD76A"/>
 
-  <path d="M470 17 L472 22 L477 24
-           L472 26 L470 31 L468 26
-           L463 24 L468 22 Z"
+  <!-- Smaller magical sparkles -->
+  <path d="M465 20 L468 27 L475 30
+           L468 33 L465 40 L462 33
+           L455 30 L462 27 Z"
         fill="#FFE9A6"/>
 
-  <path d="M530 17 L532 22 L537 24
-           L532 26 L530 31 L528 26
-           L523 24 L528 22 Z"
+  <path d="M535 20 L538 27 L545 30
+           L538 33 L535 40 L532 33
+           L525 30 L532 27 Z"
         fill="#FFE9A6"/>
+
 </svg>
