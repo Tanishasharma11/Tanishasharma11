@@ -12,7 +12,8 @@
   <path d="M500 7 L507 23 L523 30
            L507 37 L500 53 L493 37
            L477 30 L493 23 Z"
-        fill="#FFD76A"/>
+      transform="translate(125 7.5) scale(0.75)"
+      fill="#FFD76A"/>
 
   <!-- Smaller sparkles -->
   <path d="M465 20 L468 27 L475 30
