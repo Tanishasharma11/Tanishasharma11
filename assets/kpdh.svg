@@ -1,29 +1,28 @@
-
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="1000" height="30"
-     viewBox="0 0 1000 60">
+     width="1000" height="32"
+     viewBox="0 0 1000 32">
 
-  <!-- Solid purple bar -->
-  <rect x="0" y="28"
-        width="3000" height="2"
+  <!-- Purple line -->
+  <rect x="0" y="15"
+        width="1000" height="2"
         fill="#A855F7"/>
 
-  <!-- Golden central sparkle -->
-  <path d="M500 7 L507 23 L523 30
-           L507 37 L500 53 L493 37
-           L477 30 L493 23 Z"
-      transform="translate(125 7.5) scale(0.75)"
-      fill="#FFD76A"/>
+  <!-- Central golden sparkle -->
+  <path d="M500 4 L504 12 L512 16
+           L504 20 L500 28 L496 20
+           L488 16 L496 12 Z"
+        fill="#FFD76A"/>
 
-  <!-- Smaller sparkles -->
-  <path d="M465 20 L468 27 L475 30
-           L468 33 L465 40 L462 33
-           L455 30 L462 27 Z"
+  <!-- Left sparkle -->
+  <path d="M465 10 L467 14 L471 16
+           L467 18 L465 22 L463 18
+           L459 16 L463 14 Z"
         fill="#FFE9A6"/>
 
-  <path d="M535 20 L538 27 L545 30
-           L538 33 L535 40 L532 33
-           L525 30 L532 27 Z"
+  <!-- Right sparkle -->
+  <path d="M535 10 L537 14 L541 16
+           L537 18 L535 22 L533 18
+           L529 16 L533 14 Z"
         fill="#FFE9A6"/>
 
 </svg>
