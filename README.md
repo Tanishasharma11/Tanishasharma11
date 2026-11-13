@@ -21,7 +21,7 @@
        alt="Engineering and Automation Workspace with futuristic car and mechanical gear">
 </p>
 
-    I learn by building. Below is catalog of my projects:
+    I learn by building. Below is a catalog of my projects:
 
 ### 🛠️ Core Utilities & Algorithmic Modules
  
