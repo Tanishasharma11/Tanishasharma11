@@ -5,7 +5,7 @@
 
   <!-- Solid purple bar -->
   <rect x="0" y="28"
-        width="1000" height="2"
+        width="3000" height="2"
         fill="#A855F7"/>
 
   <!-- Golden central sparkle -->
